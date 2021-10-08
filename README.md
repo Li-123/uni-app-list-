@@ -215,8 +215,3 @@ const c = arr.every(item => item>1)
 console.log(arr)   // [4, 9, 16, 25]
 console.log(b)  // false
 console.log(c)  // true
-
-作者：WYL_99
-链接：https://www.jianshu.com/p/253fb9e27e4e
-来源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
